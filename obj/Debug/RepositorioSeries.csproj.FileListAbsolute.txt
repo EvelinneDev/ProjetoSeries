@@ -1,0 +1,16 @@
+C:\Users\velsa\source\repos\RepositorioSeries\obj\Debug\RepositorioSeries.csproj.AssemblyReference.cache
+C:\Users\velsa\source\repos\RepositorioSeries\obj\Debug\RepositorioSeries.csproj.SuggestedBindingRedirects.cache
+C:\Users\velsa\source\repos\RepositorioSeries\obj\Debug\RepositorioSeries.csproj.CoreCompileInputs.cache
+C:\Users\velsa\source\repos\RepositorioSeries\bin\Debug\RepositorioSeries.exe.config
+C:\Users\velsa\source\repos\RepositorioSeries\bin\Debug\RepositorioSeries.exe
+C:\Users\velsa\source\repos\RepositorioSeries\bin\Debug\RepositorioSeries.pdb
+C:\Users\velsa\source\repos\RepositorioSeries\obj\Debug\RepositorioSeries.exe
+C:\Users\velsa\source\repos\RepositorioSeries\obj\Debug\RepositorioSeries.pdb
+C:\Users\velsa\OneDrive\Área de Trabalho\desafio-git\Projeto-Series\bin\Debug\RepositorioSeries.exe.config
+C:\Users\velsa\OneDrive\Área de Trabalho\desafio-git\Projeto-Series\bin\Debug\RepositorioSeries.exe
+C:\Users\velsa\OneDrive\Área de Trabalho\desafio-git\Projeto-Series\bin\Debug\RepositorioSeries.pdb
+C:\Users\velsa\OneDrive\Área de Trabalho\desafio-git\Projeto-Series\obj\Debug\RepositorioSeries.csproj.AssemblyReference.cache
+C:\Users\velsa\OneDrive\Área de Trabalho\desafio-git\Projeto-Series\obj\Debug\RepositorioSeries.csproj.SuggestedBindingRedirects.cache
+C:\Users\velsa\OneDrive\Área de Trabalho\desafio-git\Projeto-Series\obj\Debug\RepositorioSeries.csproj.CoreCompileInputs.cache
+C:\Users\velsa\OneDrive\Área de Trabalho\desafio-git\Projeto-Series\obj\Debug\RepositorioSeries.exe
+C:\Users\velsa\OneDrive\Área de Trabalho\desafio-git\Projeto-Series\obj\Debug\RepositorioSeries.pdb
